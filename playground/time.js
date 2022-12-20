@@ -5,6 +5,7 @@ var moment = require('moment');
 // var months = ['Jan', 'Feb']
 // console.log(date.getMonth());
 //
+//
 // var date = moment();
 // date.add(100, 'year').subtract(9, 'months');
 // console.log(date.format('MMM Do, YYYY'));
@@ -12,6 +13,7 @@ var moment = require('moment');
 // 10:35 am
 // 6:01 am
 // create time duration
+
 
 var someTimestamp = moment().valueOf();
 console.log(someTimestamp)
